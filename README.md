@@ -25,13 +25,8 @@
 
 ### 📊 Estadísticas de GitHub
 
-<!-- Tarjetas de estadísticas conectadas directamente a tu usuario Kuroki-sl -->
-<img src="https://github-readme-stats.vercel.app/api?username=Kuroki-sl&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuroki-sl&theme=tokyonight&hide_border=true" width="48%" /> -->
-
-<!-- <br> -->
-
-<!-- Tarjeta de lenguajes más usados -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuroki-sl&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<!-- Tarjetas alineadas con el mismo alto -->
+<img src="https://github-readme-stats.vercel.app/api?username=Kuroki-sl&show_icons=true&theme=tokyonight&hide_border=true" height="190" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuroki-sl&layout=compact&theme=tokyonight&hide_border=true" height="190" />
 
 </div>
