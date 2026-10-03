@@ -25,8 +25,8 @@
 
 ### 📊 Estadísticas de GitHub
 
-<!-- Tarjetas alineadas con el mismo alto -->
-<img src="https://github-readme-stats.vercel.app/api?username=Kuroki-sl&show_icons=true&theme=tokyonight&hide_border=true" height="190" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuroki-sl&layout=compact&theme=tokyonight&hide_border=true" height="190" />
+<!-- Tarjetas alineadas perfectamente ocultando la fila 'issues' -->
+<img src="https://github-readme-stats.vercel.app/api?username=Kuroki-sl&show_icons=true&theme=tokyonight&hide_border=true&hide=issues" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuroki-sl&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
