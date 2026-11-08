@@ -39,11 +39,11 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/antigravity-1E1E1E?style=for-the-badge&logo=xkcd&logoColor=white" />
 
-### 📊 Estadísticas de GitHub
+<!--  ### 📊 Estadísticas de GitHub
 
 <!-- Tarjetas alineadas perfectamente ocultando la fila 'issues' -->
 
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuroki-sl&layout=compact&theme=tokyonight&hide_border=true" /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuroki-sl&layout=compact&theme=tokyonight&hide_border=true" />  no funciona de momento por muchos intentos a la api de versel --> 
 
 </div>
